@@ -1,0 +1,8 @@
+{
+  "name": "AqueceFest - Locação de Aquecedores",
+  "description": "Landing page de alta conversão para locação de aquecedores de ambientes externos para festas e eventos na Grande Porto Alegre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
